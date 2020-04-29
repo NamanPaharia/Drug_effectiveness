@@ -1,3 +1,3 @@
 # Drug_effectiveness
-Hacker Earth competition\\
-Public leaderboard accuracy - 94.12
+Hacker Earth competition <br />
+Public leaderboard score - 94.039
